@@ -1,0 +1,4 @@
+# 本地凭据和环境配置
+.env
+.env.*
+!.env.example
